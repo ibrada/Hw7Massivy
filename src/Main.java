@@ -1,7 +1,5 @@
 import java.util.Arrays;
 
-import static java.util.Collections.reverse;
-
 public class Main {
     public static void main(String[] args) {
         int[] arr = new int[]{1, 2, 3};
